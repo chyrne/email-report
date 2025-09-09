@@ -15,7 +15,10 @@ Follow the directions and you'll get a spreadsheet that summarizes your inbox by
 * the number of threads
 * the size of all those emails (including attachments)
 
+<img width="1019" height="269" alt="spreadsheet_sample" src="https://github.com/user-attachments/assets/b98e1ca3-eb0b-494b-851d-81cf3af0df4b" />
+
 ### Instructions
+
 1. Open your target Google Sheet; paste this script
 2. OPTIONAL: add the Sheet ID (in the URL) to the script
 3. In the AppsScript menu > Services (left side) > add Advanced Gmail service (`Gmail`) 
