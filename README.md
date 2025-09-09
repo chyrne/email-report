@@ -7,6 +7,7 @@ Caveat: much heavy lifting from AI-assisted coding.
 * Do you keep running out of space cause of email attachments from a previous life years ago?
 * Is Inbox Zero anathema to you?
 * Have you unsubscribed to many marketing campaigns over the years and lost track of all the emails you need to delete?
+
 Well, have I got the Google Apps script for you.
 
 Follow the directions and you'll get a spreadsheet that summarizes your inbox by domain and sender, counting:
@@ -14,7 +15,7 @@ Follow the directions and you'll get a spreadsheet that summarizes your inbox by
 * the number of threads
 * the size of all those emails (including attachments)
 
-### How to use
+### Instructions
 1. Open your target Google Sheet; paste this script
 2. OPTIONAL: add the Sheet ID (in the URL) to the script
 3. In the AppsScript menu > Services (left side) > add Advanced Gmail service (`Gmail`) 
